@@ -1,0 +1,13 @@
+table, tr, td{
+    border: 1px solid #000;
+    border-collapse:collapse;
+}
+
+tr, td{
+    padding: 25px;
+}
+
+.color{
+    background: #000;
+    color: #fff;
+}
